@@ -10,7 +10,7 @@ One downside of using the Wemos D1 Mini, is that the Chip Select Pin, D8, GPIO15
 
 Using an ESP32 chip would simplify the UDP decoder and the ESP32 chip is cheap enough and small enough that it might as well be used throughout the project.
 
-The battery size should also be increased. This project used a 380mAh battery, which, though it worked is not as practical for prolonged use.
+The battery size should also be increased. This project used a 380mAh battery, which, though it worked, is not as practical for prolonged use.
 
 Testing should also be done to find the best LEDs for the mask. Either a high LED concentration or even an LED matrix may work well. IP65 protected LED strips may be a good idea to protect against abrasion, moisture and corrosion. Also a runner or holder for the LEDs can be designed and 3D printed to fasten the LEDs to the interior of the mask.
 
