@@ -14,4 +14,4 @@ The battery size should also be increased. This project used a 380mAh battery, w
 
 Testing should also be done to find the best LEDs for the mask. Either a high LED concentration or even an LED matrix may work well. IP65 protected LED strips may be a good idea to protect against abrasion, moisture and corrosion. Also a runner or holder for the LEDs can be designed and 3D printed to fasten the LEDs to the interior of the mask.
 
-A printed circuit board would assembly and make the mask attachment smaller and easier to use.
+A printed circuit board would make the assembly smaller and easier to use.
