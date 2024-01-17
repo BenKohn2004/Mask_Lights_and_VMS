@@ -1,4 +1,4 @@
-# Mask_Lights_and_VMS
+# Mask Lights and VMS
 
 The goal of this project is demonstrate how to use the output of the [Virtual Scoring Machine](https://www.virtualscoringmachine.com/) (VSM) to activate LED lights in a fencing mask.
 
