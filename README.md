@@ -6,6 +6,8 @@ A [W5500](https://www.aliexpress.us/item/2251832715286410.html) ethernet module 
 
 One downside of using the Wemos D1 Mini, is that the Chip Select Pin, D8, GPIO15 will cause the Wemos boot to fail if pulled High, which will occur if the W5500 is connected during boot. A poor work around is to disconnect the 3.3V power when starting up the Wemos and then reconnecting the 3.3V to the W5500. The Wemos will then take a couple of minutes to connect with the UDP stream from the VMS computer. A better solution would be to use an [ESP32](https://www.aliexpress.us/item/3256805801999922.html) board that doesn't suffer this limitation.
 
+I also needed to occassionally disable the Virtual Network Switches VMnet1 and VMnet8 under Network Connections so that the UDP stream would go to the Ethernet port.
+
 # Future Considerations
 
 Using an ESP32 chip would simplify the UDP decoder and the ESP32 chip is cheap enough and small enough that it might as well be used throughout the project.
