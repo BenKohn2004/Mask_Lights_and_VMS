@@ -1,4 +1,4 @@
-# Mask Lights and VMS
+# Mask Lights and VSM
 
 The goal of this project is to demonstrate how to use the output of the [Virtual Scoring Machine](https://www.virtualscoringmachine.com/) (VSM) to activate LED lights in a fencing mask. Though I chose to use the output from the VSM, this code borrows heavily from my projects parsing the data from the Favero machine and this project can reasonably be modified to use the output from a Favero.
 
