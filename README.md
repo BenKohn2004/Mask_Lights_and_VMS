@@ -1,6 +1,6 @@
 # Mask Lights and VSM
 
-A demonstration of the Mask Lights on [Youtube](https://youtu.be/llAjzOXssoA?si=W8I_Yx8YUjLXj7pW)
+A demonstration of the Mask Lights on [Youtube](https://youtu.be/llAjzOXssoA?si=W8I_Yx8YUjLXj7pW). Yes, I know it is a saber mask. It is what I installed the lights in for the proof of concept.
 
 The goal of this project is to demonstrate how to use the output of the [Virtual Scoring Machine](https://www.virtualscoringmachine.com/) (VSM) to activate LED lights in a fencing mask. Though I chose to use the output from the VSM, this code borrows heavily from my projects parsing the data from the Favero machine and this project can reasonably be modified to use the output from a Favero.
 
