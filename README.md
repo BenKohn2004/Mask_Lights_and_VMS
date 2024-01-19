@@ -20,4 +20,4 @@ Testing should also be done to find the best LEDs for the mask. Either a high LE
 
 A printed circuit board would make the assembly smaller and easier to use.
 
-Since the Wemos inside the mask receives not only the Red/Green lights but also the score, time, cards and priority from the VSM stream, additional lights could be added to the mask to indicate these values. Cards would be useful for Saber since they are common due to false starts and displaying priority could be done for Foil and Epee.
+Since the Wemos inside the mask receives not only the Red/Green lights but also the score, time, cards and priority from the VSM stream, additional lights could be added to the mask to indicate these values. Cards would be useful for Saber since they are common due to false starts and displaying priority could be done for Foil and Epee. There could also be a specific count down light pattern associated with the last few seconds of a fencing period.
