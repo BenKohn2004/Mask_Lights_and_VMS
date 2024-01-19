@@ -19,3 +19,5 @@ The battery size should also be increased. This project used a 380mAh battery, w
 Testing should also be done to find the best LEDs for the mask. Either a high LED concentration or even an LED matrix may work well. IP65 protected LED strips may be a good idea to protect against abrasion, moisture and corrosion. Also a runner or holder for the LEDs can be designed and 3D printed to fasten the LEDs to the interior of the mask.
 
 A printed circuit board would make the assembly smaller and easier to use.
+
+Since the Wemos inside the mask receives not only the Red/Green lights but also the score, time, cards and priority from the VSM stream, additional lights could be added to the mask to indicate these values. Cards would be useful for Saber since they are common due to false starts and displaying priority could be done for Foil and Epee.
